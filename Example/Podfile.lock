@@ -1,0 +1,16 @@
+PODS:
+  - UIListView (0.1.0)
+
+DEPENDENCIES:
+  - UIListView (from `../`)
+
+EXTERNAL SOURCES:
+  UIListView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  UIListView: 86cbb88638f0da0dd3b30a3dc46143f39d96daf4
+
+PODFILE CHECKSUM: 8a831088cdf92ae288697a56a5f2a7190c3b00c3
+
+COCOAPODS: 1.5.3

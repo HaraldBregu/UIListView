@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'UIListView_Example' do
+  pod 'UIListView', :path => '../'
+
+  target 'UIListView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
